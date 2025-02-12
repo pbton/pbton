@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pbton
 - 👀 I’m interested in data science & data engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning ML Ops
 - 💞️ I’m looking to collaborate on mathematics and statistics behind ML models
 - 📫 How to reach me paulbeatonpaulbeaton@gmail.com
 
